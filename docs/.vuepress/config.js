@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         text: 'Utilities',
-        link: '/utilities/'
+        link: '/utilities/basicUtilities'
       },
       {
         text: 'Config',
@@ -57,10 +57,10 @@ module.exports = {
           ]
         }
       ],
-      '/utilities/': [
+      '/utilities/basicUtilities': [
         {
           title: 'Utilities',
-          collapsable: true,
+          collapsable: false,
           children: [
             // '',
             'basicUtilities',
