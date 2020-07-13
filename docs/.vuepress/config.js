@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'philbaker4/color-utilities',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -41,23 +41,23 @@ module.exports = {
         text: 'Utilities',
         link: '/utilities/basicUtilities'
       },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
+      // {
+      //   text: 'Config',
+      //   link: '/config/'
+      // },
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-      '/utilities/basicUtilities': [
+      // '/guide/': [
+        // {
+        //   title: 'Guide',
+        //   collapsable: false,
+        //   children: [
+        //     '',
+        //     'getting-started',
+        //   ]
+        // }
+      // ],
+      '/utilities/': [
         {
           title: 'Utilities',
           collapsable: false,
@@ -68,7 +68,8 @@ module.exports = {
           ]
         }
       ]
-    }
+    },
+    smoothScroll: true,
   },
 
   markdown: {
