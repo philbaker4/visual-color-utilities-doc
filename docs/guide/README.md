@@ -1,6 +1,6 @@
 # Introduction
 
-Color Visual Utilities is a lightweight library for color manipulation and linear gradient creation. The library was born out of frustration when trying to create and color vanilla Javascript data visualizations. I struggled to find lightweight, easy to use, and reliable resources to manipulate colors and generate customized multicolor linear gradients, so I started writing my own. Enjoy!
+Visual Color Utilities is a lightweight library for color manipulation and linear gradient creation. The library was born out of frustration when trying to create and color vanilla Javascript data visualizations. I struggled to find lightweight, easy to use, and reliable resources to manipulate colors and generate customized multicolor linear gradients, so I started writing my own. Enjoy!
 
 
 # Getting Started
@@ -8,12 +8,12 @@ Color Visual Utilities is a lightweight library for color manipulation and linea
 
 ## Installation
 ```bash
-$ npm install color-visual-utilities
+$ npm install visual-color-utilities
 ```
 
 ## Usage
 ```js{18-31,34}
-import { getMultiColorLinearGradient } from 'color-visual-utilities'
+import { getMultiColorLinearGradient } from 'visual-color-utilities'
 
 const multiColorGradientDefinition = [
   {
