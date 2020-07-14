@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'color-utilities',
+  title: 'color-visual-utilities',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -27,7 +27,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'philbaker4/color-utilities',
+    repo: 'philbaker4/color-visual-utilities',
     editLinks: false,
     docsDir: '',
     editLinkText: '',

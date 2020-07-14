@@ -3,12 +3,12 @@
 
 ## Installation
 ```bash
-$ npm install color-utilities
+$ npm install color-visual-utilities
 ```
 
 ## Usage
 ```js{18-31,34}
-import { getMultiColorLinearGradient } from 'color-utilities'
+import { getMultiColorLinearGradient } from 'color-visual-utilities'
 
 const multiColorGradientDefinition = [
   {
