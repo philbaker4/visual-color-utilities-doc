@@ -1,6 +1,6 @@
 # Introduction
 
-Color Visual Utilities is a small library born out of frustration when trying to create and color vanilla Javascript data visualizations. I struggled to find lightweight, easy to use, and reliable resources to manipulate colors and generate customized multicolor linear gradients, so I started writing my own. Enjoy!
+Color Visual Utilities is a lightweight library for color manipulation and linear gradient creation. The library was born out of frustration when trying to create and color vanilla Javascript data visualizations. I struggled to find lightweight, easy to use, and reliable resources to manipulate colors and generate customized multicolor linear gradients, so I started writing my own. Enjoy!
 
 
 # Getting Started
