@@ -1,9 +1,10 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Small library for color manipulation and linear gradient creation
+heroImage: /logo.png
+heroText: 
+tagline: Lightweight library for color manipulation and linear gradient creation
 actionText: Guide →
 actionLink: /guide/
 
-footer: Made by Philip Baker - philbaker.io
+footer: Created by Philip Baker - philbaker.io
 ---
