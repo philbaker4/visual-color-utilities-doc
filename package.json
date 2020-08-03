@@ -1,5 +1,5 @@
 {
-  "name": "visual-color-utilities-doc",
+  "name": "color-utilities-doc",
   "version": "0.0.1",
   "description": "Small library for linear gradient creation and color manipulation.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "name": "Philip Baker",
     "email": "philbakerdev@gmail.com"
   },
-  "repository": "https://github.com/philbaker4/visual-color-utilities",
+  "repository": "https://github.com/philbaker4/color-utilities",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
